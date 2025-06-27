@@ -3,7 +3,7 @@
 
 **Team Members**
 - **Battulla Mohana Sampati Nagamani**
-- **Mopidevi Deepthi Priya**
+- **M0PIDEVI DEEPTHI PRIYA**
 - **Gitthadappa Gari Venu**
 - **Kunapareddy Lalitha Prasanna**
 Students of **DMSSVH College of Engineering**
