@@ -1,0 +1,18 @@
+{
+  "patient_id": "P001",
+  "name": "John Doe",
+  "age": 35,
+  "gender": "Male",
+  "conditions": ["Hypertension"],
+  "medications": ["Amlodipine"],
+  "last_checkup": "2025-05-15"
+}
+{
+  "patient_id": "P001",
+  "name": "John Doe",
+  "age": 35,
+  "gender": "Male",
+  "conditions": ["Hypertension"],
+  "medications": ["Amlodipine"],
+  "last_checkup": "2025-05-15"
+}
